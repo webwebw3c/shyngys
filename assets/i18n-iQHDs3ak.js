@@ -1,0 +1,1 @@
+var e=(e,t)=>e[t]??e.ru,t=(e,t)=>{let n=Math.floor(e),r=Math.round((e-n)*60);return t===`en`?`${n}h ${r}m`:t===`kz`?`${n} сағ ${r} мин`:`${n} ч ${r} мин`};export{e as n,t};

@@ -1,0 +1,1 @@
+import{n as e}from"./useDictionary-B3PNNCUz.js";import{i as t}from"./i18n-CWMnFJu8.js";var n=e(),r=({children:e,className:r=``})=>(0,n.jsx)(t.div,{whileHover:{y:-4},transition:{duration:.2},className:`glass rounded-2xl p-5 shadow-glow ${r}`,children:e});export{r as t};
